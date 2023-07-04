@@ -1,5 +1,5 @@
 import Input from '../../common/Input/Input';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Button from '../../common/Button/Button';
 import { convertMinutesToHours as timeConverter } from '../../util';
 import { v4 as uuidv4 } from 'uuid';
